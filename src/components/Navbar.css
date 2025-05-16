@@ -1,0 +1,16 @@
+/* Navbar.css */
+.site-header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.site-title {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.site-subtitle {
+  font-size: 18px;
+  color: #555;
+}
